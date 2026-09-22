@@ -2,14 +2,16 @@
 
 <p align="center">
   <a href="https://x.com/24thAbhinav">X</a> •
-  <a href="https://www.linkedin.com/in/AbhianvChauhan24/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/abhinavchauhan24/">LinkedIn</a>
+  <a href="https://24thabhinav.vercel.app/">Portfolio</a>
+
 </p>
 
 ---
 
 Backend-focused developer who enjoys building reliable systems and clean APIs.
 
-Currently learning more about backend architecture, real-time systems, AI, and deployment.
+Currently learning more about backend architecture, AI, and deployment.
 
 Outside of code, I enjoy photography, art, music, manga, and anime.
 
