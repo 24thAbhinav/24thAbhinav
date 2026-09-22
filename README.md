@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://x.com/24thAbhinav">X</a> •
-  <a href="https://www.linkedin.com/in/abhinavchauhan24/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/abhinavchauhan24/">LinkedIn</a> •
   <a href="https://24thabhinav.vercel.app/">Portfolio</a>
 
 </p>
@@ -17,4 +17,4 @@ Outside of code, I enjoy photography, art, music, manga, and anime.
 
 ---
 
-📫 Reach me on [X](https://x.com/ThatPahadiKid) or [LinkedIn](https://www.linkedin.com/in/abhinav-chauhan-639936253/)
+📫 Reach me on [X](https://x.com/24thAbhinav) or [LinkedIn](https://www.linkedin.com/in/abhinavchauhan24/)
