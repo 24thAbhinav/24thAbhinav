@@ -9,7 +9,7 @@
 
 ---
 
-Backend-focused developer who enjoys building reliable systems and clean APIs.
+Backend-focused developer 
 
 Currently learning more about backend architecture, AI, and deployment.
 
